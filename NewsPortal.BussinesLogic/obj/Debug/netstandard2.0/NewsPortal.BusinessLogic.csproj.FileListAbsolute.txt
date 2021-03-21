@@ -1,0 +1,13 @@
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.AssemblyInfo.cs
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.BusinessLogic.deps.json
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.BusinessLogic.dll
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.BusinessLogic.pdb
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.DAL.dll
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.Repository.dll
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.Repository.pdb
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\bin\Debug\netstandard2.0\NewsPortal.DAL.pdb
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.csproj.CopyComplete
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.dll
+C:\Users\milekica\source\repos\NewsPortal.BussinesLogic\obj\Debug\netstandard2.0\NewsPortal.BusinessLogic.pdb

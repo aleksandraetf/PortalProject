@@ -1,0 +1,46 @@
+<nav *ngIf="!isAdmin()" class="navbar navbar-expand navbar-dark bg-dark">
+  <div class="navbar-nav">
+    <a class="nav-item nav-link" routerLink="/login">Login</a>
+  </div>
+</nav>
+<br />
+<div class="row">
+  <div *ngIf="isAdmin()" class="col-md-3">
+    <news-form></news-form>
+  </div>
+
+  <div class="col-md-9">
+    <div class="md-form">
+      <input
+        type="text"
+        [(ngModel)]="searchText"
+        class="form-control"
+        id="search"
+        mdbInput
+      />
+      <label for="search">Search</label>
+    </div>
+
+    <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th>Text</th>
+          <th>Author</th>
+          <th>Date</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let pd of service.list">
+          <td width="70%">{{ pd.text }}</td>
+          <td>{{ pd.userName }}</td>
+          <td>{{ pd.date }}</td>
+
+          <td *ngIf="isAdmin() && isMyNews(pd)">
+            <i class="far fa-edit fa-lg" (click)="populateForm(pd)"></i>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

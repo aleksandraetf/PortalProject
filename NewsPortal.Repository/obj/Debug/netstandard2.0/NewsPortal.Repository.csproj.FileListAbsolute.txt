@@ -1,0 +1,11 @@
+C:\Users\milekica\source\repos\NewsPortal.Repository\bin\Debug\netstandard2.0\NewsPortal.Repository.deps.json
+C:\Users\milekica\source\repos\NewsPortal.Repository\bin\Debug\netstandard2.0\NewsPortal.Repository.dll
+C:\Users\milekica\source\repos\NewsPortal.Repository\bin\Debug\netstandard2.0\NewsPortal.Repository.pdb
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.csprojAssemblyReference.cache
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.AssemblyInfoInputs.cache
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.AssemblyInfo.cs
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.dll
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.pdb
+C:\Users\milekica\source\repos\NewsPortal.Repository\bin\Debug\netstandard2.0\NewsPortal.DAL.dll
+C:\Users\milekica\source\repos\NewsPortal.Repository\bin\Debug\netstandard2.0\NewsPortal.DAL.pdb
+C:\Users\milekica\source\repos\NewsPortal.Repository\obj\Debug\netstandard2.0\NewsPortal.Repository.csproj.CopyComplete

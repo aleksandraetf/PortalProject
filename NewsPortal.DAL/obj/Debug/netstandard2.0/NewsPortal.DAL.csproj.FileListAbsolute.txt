@@ -1,0 +1,8 @@
+C:\Users\milekica\source\repos\NewsPortal.DAL\bin\Debug\netstandard2.0\NewsPortal.DAL.deps.json
+C:\Users\milekica\source\repos\NewsPortal.DAL\bin\Debug\netstandard2.0\NewsPortal.DAL.dll
+C:\Users\milekica\source\repos\NewsPortal.DAL\obj\Debug\netstandard2.0\NewsPortal.DAL.csprojAssemblyReference.cache
+C:\Users\milekica\source\repos\NewsPortal.DAL\obj\Debug\netstandard2.0\NewsPortal.DAL.AssemblyInfoInputs.cache
+C:\Users\milekica\source\repos\NewsPortal.DAL\obj\Debug\netstandard2.0\NewsPortal.DAL.AssemblyInfo.cs
+C:\Users\milekica\source\repos\NewsPortal.DAL\bin\Debug\netstandard2.0\NewsPortal.DAL.pdb
+C:\Users\milekica\source\repos\NewsPortal.DAL\obj\Debug\netstandard2.0\NewsPortal.DAL.dll
+C:\Users\milekica\source\repos\NewsPortal.DAL\obj\Debug\netstandard2.0\NewsPortal.DAL.pdb
